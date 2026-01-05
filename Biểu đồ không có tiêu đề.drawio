@@ -38,8 +38,9 @@
             <mxPoint x="-14" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFfEBLbISV9vQh3pI7CV-17" edge="1" parent="1" source="mFfEBLbISV9vQh3pI7CV-13" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="mFfEBLbISV9vQh3pI7CV-30" value="">
+        <mxCell id="mFfEBLbISV9vQh3pI7CV-17" edge="1" parent="1" source="mFfEBLbISV9vQh3pI7CV-13" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mFfEBLbISV9vQh3pI7CV-30" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
             <mxPoint x="160" y="420" as="sourcePoint" />
             <mxPoint x="290" y="340" as="targetPoint" />
           </mxGeometry>
@@ -100,6 +101,17 @@
         </mxCell>
         <mxCell id="mFfEBLbISV9vQh3pI7CV-30" parent="mFfEBLbISV9vQh3pI7CV-29" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="Uminoo" vertex="1">
           <mxGeometry height="40" width="220" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0dDu1OZsNM3Bre1UXbQZ-1" edge="1" parent="1" source="mFfEBLbISV9vQh3pI7CV-13" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="mFfEBLbISV9vQh3pI7CV-30" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="420" as="sourcePoint" />
+            <mxPoint x="290" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dDu1OZsNM3Bre1UXbQZ-2" connectable="0" parent="0dDu1OZsNM3Bre1UXbQZ-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Booking Info" vertex="1">
+          <mxGeometry relative="1" x="-0.2531" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
